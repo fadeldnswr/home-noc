@@ -1,0 +1,6 @@
+influxdb-client
+requests
+python-dotenv
+ping3
+dnspython
+pydantic

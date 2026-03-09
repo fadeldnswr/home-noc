@@ -1,0 +1,6 @@
+.venv
+.env
+influxdata-archive.key
+__pycache__
+.vscode
+wget-log
